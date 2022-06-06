@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AlbumOnlineApp</string>
+    <string name="action_settings">Settings</string>
+
+
+
+	<string name="lblTitulo">INICIO DE SESIÓN</string>
+	<string name="lblEntrar">ENTRAR</string>
+	<string name="lblMensaje">¿No tiene cuenta? </string>
+	<string name="lblRegistrarse">Comuniquese con el administrador</string>
+
+
+</resources>
